@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ViewModelExtensions"
 include(":app")
- 
+include(":vm-extensions")
